@@ -8,6 +8,13 @@ git clone https://github.com/sujan321-oss/OnlineClassPlatform.git
 
 ```
 
+## download required package
+```bash
+pip install -r readme.txt
+
+```
+
+
 ## Go to the directory
 ```bash
 cd OnlineTeaching
